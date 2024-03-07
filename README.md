@@ -14,7 +14,7 @@ Minha primeira experiência programando uma I.A. assim como criando um mapa de s
 <br>
 
 <p align="center">
-  ![image](./src/capa.png)
+  ![image](src/capa.png)
 </p>
 
 ## 🚀 Tecnologias
