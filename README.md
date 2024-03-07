@@ -14,7 +14,7 @@ Minha primeira experiência programando uma I.A. assim como criando um mapa de s
 <br>
 
 <p align="center">
-  ![image](https://github.com/igorvt23/IA_adivinhe_o_filme_do_UCM/assets/80927699/4cbf5f78-7624-4de4-9a42-04f90598f43f)
+  ![image](./src/capa.png)
 </p>
 
 ## 🚀 Tecnologias

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo filmes MCU</title>
+</head>
+
+<body>
+    <h1>Olá seja bem vindo ao game!</h1>
+    <h3>Para começar pense num filme do universo cinematográfico da Marvel!</h3>
+    <hr>
+
+    <div style="display: flex; justify-content: center; align-items: center; height: 500px;">
+        <img src="./src/marvel.avif" alt="Hérois do MCU" style="background-size: cover; background-position: center; height: 500px; width: auto;">
+    </div>
+    <hr>
+    <form id="form">
+        <p id="pergunta">Neste filme há um personagem principal?</p>
+        <label>
+            <input type="radio" name="answer" value="s">
+            Sim
+        </label>
+        <label>
+            <input type="radio" name="answer" value="n">
+            Não
+        </label>
+        <br>
+        <hr>
+    </form>
+    <button type="button" id="confirm">Confirmar</button>
+    <script src="index.js"></script>
+</body>
+
+</html>
