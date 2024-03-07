@@ -1,5 +1,3 @@
-# IA_adivinhe_o_filme_do_UCM
-
 <h1 align="center"> IA_adivinhe_o_filme_do_UCM </h1>
 
 <p align="center">
