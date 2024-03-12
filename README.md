@@ -11,10 +11,6 @@ Minha primeira experiência programando uma I.A. assim como criando um mapa de s
 
 <br>
 
-<p align="center">
-  ![capa](src/capa.png)
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
